@@ -1,3 +1,3 @@
 # ems-frontend
 
-This repository contains the frontend for the Enquiry Management System.
+A React / Redux powered frontend for the Enquiry Management System.
